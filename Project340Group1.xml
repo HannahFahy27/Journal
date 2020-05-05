@@ -51,6 +51,19 @@
                <line><add rend= "pencil">do not</add><add>repose</add><del rend= "strikethrough">and</del><ad rend= "ink">but</add>seek their prey now; the fox, and skunk, and rabbit, roam the fields and woods without fear.</line>
                <line><del rend= "strikethrough">We associate wildness with the night and silence. But the repose is never complete;</del> nature has her watchmen who are links connecting the days of animated life.</line>
             </zone>
+            <zone>
+               <note><!-- In this version, paragraph two has not been written yet. It skips directly to what is eventually known as the third paragraph in this chapter --></note>
+               <line> There seems always to be sufficient space about us. Our horizon is never quite at our elbows. The <add rend= "pencil">thick</add> wood is not just at my door, nor the pond, but somewhat is always clearing,</line>
+               <line><add rend= "ink">and familiar and worn by us</add> appropriated and fenced in some way <del rend= "strikethrough">and familiar and worn by us;</del> and reclaimed from Nature.</line>
+               <line>For what reason have I this vast range and circuit, in nature—a square mile and more of unfrequented forest, for my privacy, abandoned to me by men?</line>
+               <line><del rend= "strikethrough">Surely we do not live crowded.</del>My nearest neighbor is more than a mile distant, and no house is visible from <add rend= "pencil">any place but the hill-tops</add> within half a mile of my own.</line>
+               <line>I have my horizon bounded by woods all to myself; I have a distant view of railroad where it touches the pond on the one hand, and of the fence which skirts the woodland road on the other.</line>
+               <line>But for the most part it is as solitary where I live as on the prairies. It is as much Asia or Africa as New England.</line>
+               <line>I have, as it were, my own sun and moon and stars, and a little world all to myself. At night there was never a traveller passed my house, or knocked at my door, mre than if I were the first or last man;</line>
+               <line>unless it were in the spring, when some came occasionally from the village to fish for pouts in the pond, and,—they plainly fished much more in Walden Pond of their own natures, and baited their hooks with darkness, —but they soon retreated,</line>
+               <line>usually with light baskets, and left "the vale to solitude and me," and the dark kernel of the night was never profaned by any human neighborhood.</line>
+               <line> I believe that men are generally still a little afraid of the dark, though the witches are <add rend= "pencil">all</add> hung, and Christianity and candles <del rend= "strikethrough">are</del><add rend= "pencil">have been</add> invented.</line>
+            </zone>
          </surface>
    </sourceDoc>
 </TEI>
